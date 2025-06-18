@@ -2,7 +2,10 @@
 
 Second-year Computer Engineering student at **Universitat Politècnica de València (UPV)**, passionate about programming, problem-solving and continuous learning.
 
-![Criscrecgvtt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Criscrecgvtt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Criscrecgvtt's Stats](https://github-readme-stats-ljfpt1ngz-criscrecgvtts-projects.vercel.app/api?username=Criscrecgvtt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-ljfpt1ngz-criscrecgvtts-projects.vercel.app/api/top-langs/?username=Criscrecgvtt&layout=compact&theme=vue-dark&hide_border=true)
+
 
 ---
 
