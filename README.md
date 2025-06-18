@@ -1,10 +1,7 @@
 # Hi, I'm **Cristina**! 👋
 
 Second-year Computer Engineering student at **Universitat Politècnica de València (UPV)**, passionate about programming, problem-solving and continuous learning.
-
-[![Criscrecgvtt's Stats](https://github-readme-stats-ljfpt1ngz-criscrecgvtts-projects.vercel.app/api?username=Criscrecgvtt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-](https://github-readme-stats-ljfpt1ngz-criscrecgvtts-projects.vercel.app/api?username=Criscrecgvtt&count_private=true)
-
+![Criscrecgvtt's GitHub Stats](https://github-readme-stats-git-master-criscrecgvtts-projects.vercel.app/api?username=Criscrecgvtt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
