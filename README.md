@@ -4,6 +4,8 @@ Second-year Computer Engineering student at **Universitat Politècnica de Valèn
 
 ![Criscrecgvtt's GitHub Stats](https://github-readme-stats-git-master-criscrecgvtts-projects.vercel.app/api?username=Criscrecgvtt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats-git-master-criscrecgvtts-projects.vercel.app/api/top-langs/?username=Criscrecgvtt&layout=compact&theme=vue-dark&hide_border=true)
+
 ---
 
 ## 🚀 About Me
