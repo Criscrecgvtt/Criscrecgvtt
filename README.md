@@ -1,6 +1,6 @@
 # Hi, I'm **Cristina**! 👋
 
-Second-year Computer Engineering student at **Universitat Politècnica de València (UPV)**, passionate about programming, problem-solving and continuous learning.
+Third-year Computer Engineering student at **Universitat Politècnica de València (UPV)**, passionate about programming, problem-solving and continuous learning.
 
 ![Criscrecgvtt's GitHub Stats](https://github-readme-stats-git-master-criscrecgvtts-projects.vercel.app/api?username=Criscrecgvtt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600)
 
@@ -8,7 +8,7 @@ Second-year Computer Engineering student at **Universitat Politècnica de Valèn
 
 ## 🚀 About Me
 
-- 🎓 Currently finishing my 2nd year of Computer Engineering at UPV.  
+- 🎓 Currently on my 3rd year of Computer Engineering at UPV.  
 - 🏆 Competed in programming contests such as **Ada Byron** (regional & university editions).  
 - 💻 I enjoy tackling algorithmic challenges and turning ideas into code.  
 - 🌱 Always learning: data-structures, software design, and a bit of everything that sparks my curiosity.  
